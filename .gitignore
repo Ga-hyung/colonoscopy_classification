@@ -1,0 +1,11 @@
+adenoma_classification/
+all_data/
+Carcinoma_and_others_classification/
+data_augmented/
+data_augmented_new/
+data_new/
+data_trimmed/
+inflammatory_classification/
+polyp_data/
+raw_data/
+src/*.png
